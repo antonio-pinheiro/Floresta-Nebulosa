@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 35f5c423f5dfc7f42ab8ace9d12bc826
+  - enabled: 1
+    path: Assets/Scenes/interior_casa.unity
+    guid: 1d4e10569d96c57439788c7d505e58fd
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 74132447804d5be479dab2542edef6f0
+  - enabled: 1
+    path: Assets/Scenes/igreja.unity
+    guid: 337bd8a973481d0429a029cf4e2b2d47
+  m_configObjects: {}
